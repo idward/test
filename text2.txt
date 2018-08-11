@@ -3,3 +3,4 @@ add new line to text2
 say hello to jacky
 i want to see a movie
 add BBBB222 to test2
+i want to buy some foods
